@@ -1,0 +1,3 @@
+*.log # ignore all .log files
+temp/ # ignore the entire temp folder
+config.json # ignore a specific file
