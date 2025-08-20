@@ -1,0 +1,1 @@
+Create a file and add it to Git’s “staging area”.
